@@ -75,11 +75,20 @@
 
 ### Current mood
 
-```text
-1. Make it work.
-2. Make it understandable.
-3. Make it elegant enough to keep.
-```
+<table>
+  <tr>
+    <td><strong>01</strong></td>
+    <td>Make it work.</td>
+  </tr>
+  <tr>
+    <td><strong>02</strong></td>
+    <td>Make it understandable.</td>
+  </tr>
+  <tr>
+    <td><strong>03</strong></td>
+    <td>Make it elegant enough to keep.</td>
+  </tr>
+</table>
 
 ### Side notes
 
