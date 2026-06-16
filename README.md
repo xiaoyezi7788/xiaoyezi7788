@@ -1,6 +1,6 @@
 <div align="center">
 
-# xiaoyezi / 汤烨瀚
+# xiaoyezi / 小烨子
 
 **AI Coding · Full-Stack · Product-minded Builder**  
 **把想法做成能跑、能看、能继续长出来的东西**
